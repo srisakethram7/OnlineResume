@@ -1,0 +1,78 @@
+<div class="skillSection">
+  <div class="topnav">
+    <div class="search-container">
+      <input type="text" [(ngModel)]="searchText" placeholder="Search with keywords here.." name="search" (ngModelChange)="onChange($event)">
+    </div>
+  </div>
+  <div *ngIf="isFilteredResult == false">
+    <div class="row">
+      <div class="col-sm-6">
+          <div style="text-align: left; padding-left: 10px; padding-top: 5px;">
+              <span style="font-size: 9pt"><strong>FRONT END DEVELOPMENT</strong></span>
+              <div style="font-size: 9pt" *ngFor="let s of frontEndSkills">
+                <span>{{s}}</span>
+              </div>
+            </div>
+            
+            <div style="text-align: left; padding-left: 10px;padding-top: 10px;">
+              <span style="font-size: 9pt"><strong>BACK END DEVELOPMENT</strong></span>
+              <div style="font-size: 9pt" *ngFor="let s of backEndSkills">
+                <span>{{s}}</span>
+              </div>
+            </div>
+        
+            <div style="text-align: left; padding-left: 10px;padding-top: 10px;">
+              <span style="font-size: 9pt"><strong>LANGUAGES</strong></span>
+              <div style="font-size: 9pt" *ngFor="let s of languages">
+                <span>{{s}}</span>
+              </div>
+            </div>
+      </div>
+      <div class="col-sm-6">
+          <div style="text-align: left; padding-left: 10px; padding-top: 5px;">
+              <span style="font-size: 9pt"><strong>APPLICATION TOOLS</strong></span>
+              <div style="font-size: 9pt" *ngFor="let s of frontEndSkills">
+                <span>{{s}}</span>
+              </div>
+            </div>
+            
+            <div style="text-align: left; padding-left: 10px;padding-top: 10px;">
+              <span style="font-size: 9pt"><strong>BACK END DEVELOPMENT</strong></span>
+              <div style="font-size: 9pt" *ngFor="let s of backEndSkills">
+                <span>{{s}}</span>
+              </div>
+            </div>
+        
+            <div style="text-align: left; padding-left: 10px;padding-top: 10px;">
+              <span style="font-size: 9pt"><strong>LANGUAGES</strong></span>
+              <div style="font-size: 9pt" *ngFor="let s of languages">
+                <span>{{s}}</span>
+              </div>
+            </div>
+      </div>
+    </div>
+    
+  </div>
+  <div *ngIf="isFilteredResult" class="container col-sm-12" style="padding-top:10px;">
+      <div class="panel panel-default">
+        <div class="panel-heading">Skill Description</div>
+        <div class="panel-body">
+            <table>
+                <tr>
+                  <th>Name</th>
+                  <th>Availability</th>
+                  <th>Rating</th>
+                </tr>
+                <tr *ngFor="let skill of allSkills | filter : searchText">
+                  <td>{{skill}}</td>
+                  <td>Yes</td>
+                  <td>Intermediate</td>
+                </tr>
+              </table>
+        </div>
+      </div>
+    </div>
+</div>
+
+
+  

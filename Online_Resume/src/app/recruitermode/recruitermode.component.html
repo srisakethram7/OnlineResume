@@ -1,0 +1,47 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <span>
+          <img src="assets/Images/logo1.jpg" style="height:45px;width:45px;padding-top: 6px;float: left">
+          <a class="navbar-brand" id="logotext" style="color:#d1dff1; padding: 15px 15px 10px 22px ">Online Resume</a>
+      </span>
+      
+      
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Home</a></li>
+        <li><a (click)="getAbout();" style="cursor:pointer;">About</a></li>
+        <li><a (click)="getTestimonials();" style="cursor:pointer">Testimonials</a></li>
+        <li><button class="btn btn-primary" [routerLink]="['/hiringmanager']" style="margin-top: 8px; margin-left: 12px">Switch Mode</button></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+<div class="container-fluid text-center">    
+  <div class="row content">
+    <div class="col-sm-2" style="margin-top: 20px;">
+      <app-leftsidebar></app-leftsidebar>
+    </div>
+    
+    <div *ngIf="(loadAbout == false) && (loadTestimonail == false)" class="col-sm-8 sidenav">
+      <app-skills></app-skills>
+    </div>
+    <div *ngIf="loadAbout == true && loadTestimonail == false" class="col-sm-10">
+      <app-about-page></app-about-page>
+    </div>
+    <div *ngIf="loadTestimonail == true && loadAbout == false" class="col-sm-10 testimonial">
+      <app-testimonials-page></app-testimonials-page>
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+    <p>&copy; Sri Sakethram Gali</p>
+</footer>

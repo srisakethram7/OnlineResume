@@ -1,0 +1,35 @@
+.container{
+    margin-top: 10px; 
+    margin-left: 0px;
+    width:40%;
+ }
+
+@media screen and (max-width: 1100px) {
+    .container{
+        width:100%;
+    }
+}
+
+#rightArrow{
+    height:80px; 
+    width:60px;
+    position: absolute; 
+    right:-42px; 
+    top: 60%;
+   }
+   
+   #leftArrow {
+    height:80px; 
+    width:60px;
+    position: absolute;
+    left:-40px;
+    top: 60%;
+   }
+
+hr{
+    border: 1px solid blue;
+    clear: both;
+    width:165px;
+    float: left;
+    margin-top: 0px;
+}

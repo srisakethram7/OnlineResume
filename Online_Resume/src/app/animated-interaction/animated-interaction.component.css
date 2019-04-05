@@ -1,0 +1,87 @@
+.typingText {
+    border-radius: 25px;
+    background: white;
+    padding: 25px; 
+    /* width: 500px;
+    height: 0px; */
+    font-size: 22px;
+    color: #3d464e;
+    line-height: 12px;  
+    float: left;
+}
+
+/* .InteractionDiv {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%); 
+    display: inline;
+    overflow:hidden;
+    padding:30px 0px 10px 125px;
+} */
+
+#InteractionDiv{
+    margin-top: 250px;
+    margin-left: 25%;
+}
+
+
+
+#continueButton{
+    display: none;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+#myModal{
+    position: fixed;
+    top: 35%;
+    left: -2%;
+    /* bring your own prefixes */
+    /* transform: translate(3%, 70%);  */
+    overflow: hidden;
+    margin-right: 0px;
+}
+
+#closeModal{
+    cursor: pointer;
+}
+
+li:hover span{
+color: red;
+cursor: pointer;
+}
+
+a:hover {
+    color: red;
+    cursor: pointer;
+    }
+
+.modal-content{
+    min-height: 100px;
+    overflow: hidden;
+}
+
+modal-dialog{
+    min-height: 100px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 767px) {
+    #InteractionDiv {
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-left: 0px;
+    }
+    
+    #continueButton {
+        margin-left: 35%;
+    }
+
+    .typingText{
+        font-size: 16px;
+    }
+  }
