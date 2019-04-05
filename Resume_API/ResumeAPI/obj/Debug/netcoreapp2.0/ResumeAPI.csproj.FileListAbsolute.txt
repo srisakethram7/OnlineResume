@@ -1,0 +1,11 @@
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\bin\Debug\netcoreapp2.0\ResumeAPI.deps.json
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\bin\Debug\netcoreapp2.0\ResumeAPI.runtimeconfig.json
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\bin\Debug\netcoreapp2.0\ResumeAPI.runtimeconfig.dev.json
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\bin\Debug\netcoreapp2.0\ResumeAPI.dll
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\bin\Debug\netcoreapp2.0\ResumeAPI.pdb
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\obj\Debug\netcoreapp2.0\ResumeAPI.csprojResolveAssemblyReference.cache
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\obj\Debug\netcoreapp2.0\ResumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\obj\Debug\netcoreapp2.0\ResumeAPI.AssemblyInfoInputs.cache
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\obj\Debug\netcoreapp2.0\ResumeAPI.AssemblyInfo.cs
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\obj\Debug\netcoreapp2.0\ResumeAPI.dll
+C:\Users\sri sakethram\Downloads\Study\ResumeAPI\ResumeAPI\obj\Debug\netcoreapp2.0\ResumeAPI.pdb

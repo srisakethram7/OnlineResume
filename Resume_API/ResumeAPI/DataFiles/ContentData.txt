@@ -1,0 +1,50 @@
+Record(1):
+Summary,
+,
+,
+,
+,
+<ul><li>Software&nbsp; Engineer having work experience in Object Oriented Programming (Java and C#).</li><li>Good understanding of time and space complexity, data structures and algorithms (Computer Science fundamentals) with good problem solving skills.</li><li>Good understanding of HTML, CSS and JavaScript fundamentals with exposure to JavaScript framework (AngularJS) for web development</li></ul>
+Record(2):
+WorkExperience
+Eagle Point Software,Inc
+Dubuque, IA
+Sr.Software Engineer
+April 2018 - Present
+<ul><li><span style="font-weight: 400;">Worked full stack development on Pinnacle Series - a complete AEC learning and productivity platform using HTML5, CSS3, Bootstrap 4, JQuery, Angular 4 on the front end and C#, ASP.net, WPF, Web API,WCF based SOAP web service, SQL Server and Microsoft Azure on the back end.</span></li><li><span style="font-weight: 400;">Created Workflow viewer page on the client side<span style="font-weight: 400;">, a feature to view workflow steps included with a diagram using HTML5, CSS3 and Bootstrap 4. Used Bootstrap 4 grid system to support small, medium and large devices (mobile, tablets, desktops respectively), created a workflow tree hierarchy with the help of HTML5 and CSS3 styling, created diagram view of the workflow using SVG element, written Web API service to return the tree object to the client side, written SQL query with left joins to get the parent and child elements from the database.</span></span></li><li><span style="font-weight: 400;"><span style="font-weight: 400;">Developed forms for new subscription account using Angular 4 reactive forms<span style="font-weight: 400;">. Validated forms as per business rules, used animations with Jquery to prevent stacking forms, used Angular http service to make GET and POST calls to the WCF based SOAP web service on the back end and written SQL queries to retrieve and save data to the database.</span></span></span></li><li><span style="font-weight: 400;"><span style="font-weight: 400;"><span style="font-weight: 400;">Created a landing page for asset library to manage custom created assets by the user. Used Angular routing for navigating to the asset library page, created Angular custom pipe to filter the assets based on the input.</span></span></span></li><li><span style="font-weight: 400;"><span style="font-weight: 400;"><span style="font-weight: 400;">Implemented Offline Viewer<span style="font-weight: 400;"> for the partner WSP using WPF, C# on the backend to work without internet connection.</span></span></span></span></li><li><span style="font-weight: 400;"><span style="font-weight: 400;"><span style="font-weight: 400;"><span style="font-weight: 400;">Analyzed, Troubleshooted and Fixed bugs both on the client side and on the server side.</span></span></span></span></li></ul>
+Record(3):
+WorkExperience,
+SEI Archway
+Indianapolis, IN
+Software Engineer
+July 2017 - Feb 2018
+<ul><li>Implemented development enhancements for company&rsquo;s prime product ATWeb ( finance, wealth management software) using C# , ASP.NET MVC framework, Microsoft Visual Studio 2017, SQL Server 2017 on the back end.&nbsp;</li><li>Implemented RESTFul services using ASP.NET Web API on the back end and rendered the response to the AngularJS on the front end.</li><li>Implemented SOAP Web services using WCF for sending data back and forth to the client written in Adobe Flex. Used Fiddler to analyze and debug the XML request and response.&nbsp;</li><li>Designed T-SQL stored procedures, data chunking (for CRUD operations) to facilitate client queries as requested in SQL Server.&nbsp;</li><li>Participated in pair programming with Peers and Software Architect to ensure high quality code.</li></ul>
+Record(4):
+WorkExperience,
+National Government Services
+Indianapolis, IN
+Software Engineer
+Feb 2016 - Jun 2017
+<ul><li style="font-weight: 400;"><span style="font-weight: 400;">Contributed towards the development of Advanced Provider Screening (APS) software for the end user CMS (Centers for Medicare &amp; Medicaid).</span></li><li style="font-weight: 400;">Implemented automated data transfer between two schemas in Oracle, used object oriented programming &amp; design patterns extensively with Java 1.6, Spring taskexecutor(Multi-threading), Spring JDBC, Spring Core, Quartz Scheduler and Oracle 11.6 on the back end.</li><li style="font-weight: 400;"><span style="font-weight: 400;">Implemented web services API using Spring REST, which produces and consumes JSON data. Used Postman to debug and test REST API. </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Worked on front end AngularJS client in consuming a Spring REST web service and render the content into the DOM. </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Developed Multi-Threaded application for ecient data transfer of 70 Oracle Tables , using 1 Thread for 1 Table and limited the total number of threads usage to 10.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Created multi joins, sub-queries, indexes, joined with temporary tables for performance tuning in Oracle. </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Participated in all phases of SDLC, which includes requirement gathering, developing, unit testing, integration testing (Test Driven Development) and deploying application on Linux environment.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Involved in the testing of Restful web service using Postman tool which produces and consumes JSON data as part of integrating with Lock Manager module.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Used Mantis defect management tool for bug tracking.&nbsp;</span><span style="font-weight: 400;">Used Maven to build the dependencies.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Worked proactively on Linux Bash script which replaces new email list with existing email list. Used Linux commands to check the log files in Putty.</span></li></ul>
+Record(5):
+WorkExperience,
+Indiana State University
+Terre Haute, IN
+Student Web Developer
+July 2014 - Dec 2015
+<ul><li>Worked on Design Review Management System requests assigned by supervisor in the project management and defect tracking tool JIRA, which monitors the review phase of the projects that are currently in progress, in collaboration with other systems, using HTML5, CSS, Bootstrap and JavaScript.</li></ul>
+Record(6):
+WorkExperience,
+Cognizant Technology Solutions
+Hyderabad, India
+Software Engineer
+Nov 2011 - Dec 2013
+<ul><li>Contributed towards stabilizing nancial applications developed using Java/J2EE by analyzing, troubleshooting and xing the defects for the end client UBS.</li><li>Develop and run SQL scripts on Oracle when requested by the development team to solve high priority production issues.</li><li>Involved extensively in testing and finding bugs in the application in pre production environment before the production release.</li><li>Received corporate training on Java, SQL and Linux.</li></ul>
+Record(7):
+Education
+,
+,
+,
+,
+<p><strong>Indiana State University, Terre Haute</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>GPA: 3.45</strong><br />Master of Science Computer Science 2015</p><p><br /><strong>Jawaharlal Nehru Technological University, India</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>GPA: 3.48</strong><br />Bachelor of Technology Information Technology 2011</p>
+End
